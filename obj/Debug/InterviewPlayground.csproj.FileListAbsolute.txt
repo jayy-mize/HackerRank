@@ -1,0 +1,7 @@
+c:\users\jwmis\documents\visual studio 2017\Projects\InterviewPlayground\InterviewPlayground\bin\Debug\InterviewPlayground.exe.config
+c:\users\jwmis\documents\visual studio 2017\Projects\InterviewPlayground\InterviewPlayground\bin\Debug\InterviewPlayground.exe
+c:\users\jwmis\documents\visual studio 2017\Projects\InterviewPlayground\InterviewPlayground\bin\Debug\InterviewPlayground.pdb
+c:\users\jwmis\documents\visual studio 2017\Projects\InterviewPlayground\InterviewPlayground\obj\Debug\InterviewPlayground.csprojAssemblyReference.cache
+c:\users\jwmis\documents\visual studio 2017\Projects\InterviewPlayground\InterviewPlayground\obj\Debug\InterviewPlayground.csproj.CoreCompileInputs.cache
+c:\users\jwmis\documents\visual studio 2017\Projects\InterviewPlayground\InterviewPlayground\obj\Debug\InterviewPlayground.exe
+c:\users\jwmis\documents\visual studio 2017\Projects\InterviewPlayground\InterviewPlayground\obj\Debug\InterviewPlayground.pdb
